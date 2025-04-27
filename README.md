@@ -31,4 +31,4 @@ This is a collection of my data analysis projects, using tools like Excel, SQL, 
 I am a data analyst passionate about turning data into actionable insights.  
 I enjoy working with datasets, solving business problems, and building impactful dashboards.
 
-Feel free to connect with me on [LinkedIn](your-link-here)! 🚀
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/karim-m-gado1/)! 🚀
